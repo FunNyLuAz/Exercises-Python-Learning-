@@ -14,5 +14,5 @@ for c in range(0, 5):
         print(nr[c])
     else:
         print(nr[c], end=' - ')
-print(f'''Maior número: {max(nr)}
-Menor número: {min(nr)}''')
+print(f'''> Maior número: {max(nr)}
+> Menor número: {min(nr)}''')

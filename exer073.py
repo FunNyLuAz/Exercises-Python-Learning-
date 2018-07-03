@@ -24,5 +24,5 @@ print(f'''{cl['zn']}{'-=-'*20}
 {sorted(cb2018)}
 
  > Posição do Chapecoense:
-{cb2018.index('Chapecoense')+1}° Posição
+{cb2018.index('Chapecoense')+1}ª Posição
 {cl['zn']}{'-=-'*20}''')
