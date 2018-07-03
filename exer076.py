@@ -7,6 +7,6 @@ for ct, c in enumerate(lp):
     if ct % 2 == 0:
         print(f'> {c:.<38}', end='')
     else:
-        print(f'R$:{lp[ct]:>7.2f}')
+        print(f'R$:{c:>7.2f}')
 
 print('='*50)

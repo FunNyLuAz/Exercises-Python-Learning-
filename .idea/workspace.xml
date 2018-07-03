@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="566f93f6-56b1-46fa-b070-a7a8d2ad2980" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/exer074.py" beforeDir="false" afterPath="$PROJECT_DIR$/exer074.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exer075.py" beforeDir="false" afterPath="$PROJECT_DIR$/exer075.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exer076.py" beforeDir="false" afterPath="$PROJECT_DIR$/exer076.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,8 +14,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="exer074.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exer074.py">
+      <file leaf-file-name="exer076.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exer076.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
@@ -83,17 +84,17 @@
         <option value="$PROJECT_DIR$/exer069.py" />
         <option value="$PROJECT_DIR$/exer070.py" />
         <option value="$PROJECT_DIR$/exer071.py" />
-        <option value="$PROJECT_DIR$/exer075.py" />
         <option value="$PROJECT_DIR$/exer078.py" />
         <option value="$PROJECT_DIR$/exer077.py" />
         <option value="$PROJECT_DIR$/exer072.py" />
-        <option value="$PROJECT_DIR$/exer076.py" />
         <option value="$PROJECT_DIR$/exer073.py" />
         <option value="$PROJECT_DIR$/exer074.py" />
+        <option value="$PROJECT_DIR$/exer075.py" />
+        <option value="$PROJECT_DIR$/exer076.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="169" />
     <option name="y" value="48" />
     <option name="width" value="1400" />
@@ -140,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exer074">
+  <component name="RunManager" selected="Python.exer076">
     <configuration name="exer072" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,6 +196,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="exer075" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exer075.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="exer076" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,38 +232,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="exer077" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Exercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exer077.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
       <item itemvalue="Python.exer076" />
-      <item itemvalue="Python.exer077" />
       <item itemvalue="Python.exer072" />
       <item itemvalue="Python.exer073" />
       <item itemvalue="Python.exer074" />
+      <item itemvalue="Python.exer075" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exer074" />
         <item itemvalue="Python.exer076" />
+        <item itemvalue="Python.exer075" />
+        <item itemvalue="Python.exer074" />
         <item itemvalue="Python.exer073" />
         <item itemvalue="Python.exer072" />
-        <item itemvalue="Python.exer077" />
       </list>
     </recent_temporary>
   </component>
@@ -644,24 +645,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exer075.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exer077.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exer076.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -673,6 +660,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exer074.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exer075.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exer076.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
