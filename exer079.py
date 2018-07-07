@@ -14,7 +14,7 @@ while True:
         break
     print('')
 
-print('\nVocê digitou os valores: ',end='')
+print('\nVocê digitou os valores: ', end='')
 for p, c in enumerate(sorted(ni)):
     if p != len(ni)-1:
         print(c, end=' - ')
