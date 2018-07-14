@@ -15,7 +15,8 @@ while True:
     print('')
 
 print('\nVocê digitou os valores: ', end='')
-for p, c in enumerate(sorted(ni)):
+ni.sort()
+for p, c in enumerate(ni):
     if p != len(ni)-1:
         print(c, end=' - ')
     else:
