@@ -1,14 +1,26 @@
 e = ' '.join(input('Digite a expressão: ')).split()
-c = op = ed = 0
 v = ['', ' não']
+vd = 0
 
-while True:
-    if c == len(e):
-        break
-    if e[c] is '(':
-        op += 1
-    if e[c] is ')':
-        ed += 1
-    c += 1
+#Outra Maneira:
+'''vd = []
 
-print(f'Sua expressão{v[0] if op == ed else v[1]} é válida')
+for c in e:
+    if c == '(':
+        vd.append(c)
+    elif c == ')':
+        if len(vd) > 0:
+            vd.pop()
+        else:
+            vd.append(')')
+            break
+print(vd)
+print(f'Sua expressão{v[0] if len(vd) == 0 else v[1]} é válida')'''
+
+for c in e:
+    if c == '(':
+        vd += 1
+    elif c == ')':
+        vd -= 1
+    print(vd)
+print(f'Sua expressão{v[0] if vd == 0 else v[1]} é válida')
