@@ -1,6 +1,7 @@
 gp = []
 p = []
-c = ma = me = 0
+pe = []
+ma = me = c = 0
 man = men = ''
 
 while True:
@@ -9,6 +10,7 @@ while True:
     p.append(input(f' > Digite o nome: '))
     p.append(float(input(f' > Digite o peso: ')))
     gp.append(p[:])
+    pe.append(p[1])
     p.clear()
     r = ' '
     while r not in 'SN':
@@ -16,6 +18,14 @@ while True:
     print('')
     if r == 'N':
         break
+
+for c in gp:
+    if c[1] == max(pe):
+        ma = c[1]
+        man += c[0]
+    elif c[1] == min(pe):
+        me = c[1]
+        men += c[0]
 
 print(f''' > Dados cadastrados:
  -Quantidade de pessoas cadastradas: {len(gp)}
