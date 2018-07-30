@@ -1,14 +1,11 @@
-p = []
-i = []
-
-n = [p, i]
+n = [[], []]
 
 for c in range(0, 7):
-    nd = int(input('Digite um valor: '))
+    nd = int(input(f'Digite {c+1}° valor: '))
     if nd % 2 == 0:
-        p.append(nd)
+        n[0].append(nd)
     else:
-        i.append(nd)
+        n[1].append(nd)
 
 n[0].sort()
 n[1].sort()
