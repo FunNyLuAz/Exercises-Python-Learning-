@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/exer083.py" line="0" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="566f93f6-56b1-46fa-b070-a7a8d2ad2980" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exer084.py" beforeDir="false" afterPath="$PROJECT_DIR$/exer084.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exer085.py" beforeDir="false" afterPath="$PROJECT_DIR$/exer085.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exer086.py" beforeDir="false" afterPath="$PROJECT_DIR$/exer086.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,30 +15,32 @@
     <session id="-173481375">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="318" />
+          <entry key="py" value="768" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="318" />
+          <entry key="Python" value="768" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
     </session>
@@ -50,10 +48,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exer085.py">
+        <entry file="file://$PROJECT_DIR$/exer086.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="600">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#339#630#1" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,16 +126,16 @@
         <option value="$PROJECT_DIR$/exer080.py" />
         <option value="$PROJECT_DIR$/exer081.py" />
         <option value="$PROJECT_DIR$/exer083.py" />
-        <option value="$PROJECT_DIR$/exer086.py" />
         <option value="$PROJECT_DIR$/exer087.py" />
         <option value="$PROJECT_DIR$/exer088.py" />
         <option value="$PROJECT_DIR$/exer089.py" />
         <option value="$PROJECT_DIR$/exer084.py" />
         <option value="$PROJECT_DIR$/exer085.py" />
+        <option value="$PROJECT_DIR$/exer086.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="133" />
     <option name="y" value="32" />
     <option name="width" value="1400" />
@@ -148,7 +149,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,6 +160,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exer085">
+  <component name="RunManager" selected="Python.exer086">
     <configuration name="exer084" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,7 +227,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exer087" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exer086" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,7 +239,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exer087.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exer086.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,19 +291,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.exer087" />
       <item itemvalue="Python.exer088" />
       <item itemvalue="Python.exer089" />
       <item itemvalue="Python.exer084" />
       <item itemvalue="Python.exer085" />
+      <item itemvalue="Python.exer086" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exer086" />
         <item itemvalue="Python.exer085" />
         <item itemvalue="Python.exer084" />
         <item itemvalue="Python.exer089" />
         <item itemvalue="Python.exer088" />
-        <item itemvalue="Python.exer087" />
       </list>
     </recent_temporary>
   </component>
@@ -330,20 +331,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="133" y="32" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49796748" visible="true" weight="0.2496329" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49796748" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" sideWeight="0.5020325" side_tool="true" weight="0.2496329" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32977462" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49853158" weight="0.4128114" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39928487" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32896304" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32896304" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32896304" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32858837" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32858837" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32896304" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014684" side_tool="true" weight="0.4135876" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -385,13 +385,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exer063.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exer064.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -624,13 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exer086.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exer087.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -715,10 +701,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exer021.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exer085.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exer086.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#339#630#1" />
+          </folding>
         </state>
       </provider>
     </entry>
