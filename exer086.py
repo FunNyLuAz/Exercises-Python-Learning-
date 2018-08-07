@@ -1,4 +1,17 @@
-n = []
+n = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+
+for l in range(0, 3):
+    for c in range(0, 3):
+        n[l][c] = int(input(f'Digite um valor para a Posição ({l},{c}): '))
+
+print(f'\n > Matriz - 3x3 (Formatada):')
+for l in n:
+    for c in l:
+        print(f'[{f"{c}":^3}]', end=' ')
+    print()
+
+#Outra Maneira
+'''n = []
 cl = -1
 cc = 0
 
@@ -14,17 +27,4 @@ for p, c in enumerate(n):
     if (p != 3) and (p != 6):
         print(f'[{f"{c}":^3}]', end=' ')
     else:
-        print(f'\n[{f"{c}":^3}]', end=' ')
-
-#Outra Maneira
-'''n = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
-
-for l in range(0, 3):
-    for c in range(0, 3):
-        n[l][c] = int(input(f'Digite um valor para a Posição ({l},{c}): '))
-
-print(f'\n > Matriz - 3x3 (Formatada):')
-for l in n:
-    for c in l:
-        print(f'[{f"{c}":^3}]', end=' ')
-    print()'''
+        print(f'\n[{f"{c}":^3}]', end=' ')'''
