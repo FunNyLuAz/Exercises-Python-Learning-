@@ -7,7 +7,6 @@ nn = []
 nd1 = nd2 = -1
 n = c = 0
 
-
 while True:
     c += 1
     print(f'{f"--< {c}º Aluno >":-<25}')
