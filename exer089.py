@@ -42,9 +42,12 @@ for p, c in enumerate(tm):
 
 print('\n > Notas - Individuais:')
 while n != 999:
-    n = int(input('Digite o Nº do Aluno: '))
+    n = int(input('Digite o Nº do Aluno [999 - Encerra]: '))
     if n != 999:
         try:
             print(f'As notas do aluno {tm[n][0][0]} são {tm[n][1][0]:.2f} e {tm[n][1][1]:.2f}\n')
         except IndexError:
             print(f'\033[4;31mAluno não encontrado, tente novamente\033[m\n')
+
+print('FINALIZANDO...')
+sleep(0.7)
